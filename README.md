@@ -34,7 +34,13 @@
 
 <br>
 
+## 📊 Atuação em Organizações
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits%20em%20orgs-128-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repos%20trabalhados-17-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Organizações-3-orange?style=for-the-badge" />
+</p>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
